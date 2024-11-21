@@ -75,7 +75,7 @@ The outliers are clearly visible in the `fiyat` and `toplam_satis` graphs, while
 
 ![Outlier Detection "fiyat" Graph](./graphs/outliers_fiyat.png)
 
-    - Since the products within each category displayed a **uniform distribution**, I did not make any changes to those columns.
+- Since the products within each category displayed a **uniform distribution**, I did not make any changes to those columns.
 
 #### **1.3. Merging Data**
 
